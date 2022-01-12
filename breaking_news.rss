@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>NASA Breaking News</title>
+ <description>A RSS news feed containing the latest NASA news articles and press releases.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/breaking_news.rss" />
+ <language>en-us</language>
+ <managingEditor>jim.wilson@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <docs>http://blogs.harvard.edu/tech/rss</docs>
+ <item> <title>NASA’s Webb Telescope Reaches Major Milestone as Mirror Unfolds</title>
+ <link>http://www.nasa.gov/press-release/nasa-s-webb-telescope-reaches-major-milestone-as-mirror-unfolds</link>
+ <description>NASA’s James Webb Space Telescope team fully deployed its 21-foot, gold-coated primary mirror, successfully completing the final stage of all major spacecraft deployments to prepare for science operations.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_illustration.png?itok=KJp4XyCq" length="1677661" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-s-webb-telescope-reaches-major-milestone-as-mirror-unfolds</guid>
+ <pubDate>Sat, 08 Jan 2022 12:16 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476502</dc:identifier>
+</item>
+ <item> <title>NASA to Host Coverage, Briefing for Webb Telescope’s Final Unfolding</title>
+ <link>http://www.nasa.gov/press-release/nasa-to-host-coverage-briefing-for-webb-telescope-s-final-unfolding</link>
+ <description>NASA will provide live coverage and host a media briefing Saturday, Jan. 8, for the conclusion of the James Webb Space Telescope’s major spacecraft deployments.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/james_webb_space_telescope.jpg?itok=ZdlLrwkD" length="371090" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-to-host-coverage-briefing-for-webb-telescope-s-final-unfolding</guid>
+ <pubDate>Thu, 06 Jan 2022 16:24 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476415</dc:identifier>
+</item>
+ <item> <title>Sunshield Successfully Deploys on NASA’s Next Flagship Telescope</title>
+ <link>http://www.nasa.gov/press-release/sunshield-successfully-deploys-on-nasa-s-next-flagship-telescope</link>
+ <description>The James Webb Space Telescope team has fully deployed the spacecraft’s 70-foot sunshield, a key milestone in preparing it for science operations.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/finalsunshielddeploy6gunn.jpeg?itok=9e7e_SWp" length="601417" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/sunshield-successfully-deploys-on-nasa-s-next-flagship-telescope</guid>
+ <pubDate>Tue, 04 Jan 2022 10:51 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476320</dc:identifier>
+</item>
+ <item> <title>Update: NASA Plans Coverage of Webb Space Telescope Deployments</title>
+ <link>http://www.nasa.gov/press-release/update-nasa-plans-coverage-of-webb-space-telescope-deployments</link>
+ <description>Over about the next two weeks, NASA will provide broadcast coverage, media briefings, and other updates on major deployment milestones for the James Webb Space Telescope, the world’s largest and most powerful space science telescope.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/48936479373_aedba34e60_o.jpg?itok=BsDzARwm" length="3803551" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/update-nasa-plans-coverage-of-webb-space-telescope-deployments</guid>
+ <pubDate>Thu, 30 Dec 2021 11:12 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476297</dc:identifier>
+</item>
+ <item> <title>Nevada Air Cadets to Hear from NASA Astronauts Aboard Space Station</title>
+ <link>http://www.nasa.gov/press-release/nevada-air-cadets-to-hear-from-nasa-astronauts-aboard-space-station</link>
+ <description>Cadets from the Nevada Civil Air Patrol will have an opportunity soon to hear from NASA astronauts aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/barron_chari.jpg?itok=mOVEK1E7" length="409499" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nevada-air-cadets-to-hear-from-nasa-astronauts-aboard-space-station</guid>
+ <pubDate>Tue, 28 Dec 2021 12:48 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476271</dc:identifier>
+</item>
+ <item> <title>NASA Invites Media to NOAA’s Weather Observing Satellite Launch</title>
+ <link>http://www.nasa.gov/press-release/nasa-invites-media-to-noaa-s-weather-observing-satellite-launch</link>
+ <description>Media accreditation is now open for the upcoming launch of the National Oceanic and Atmospheric Administration (NOAA) GOES-T satellite, the Western Hemisphere’s most advanced weather observing and environmental monitoring system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/goes-r_main_earth_reflection_panel_big_0.jpg?itok=VdDmiPGW" length="233279" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invites-media-to-noaa-s-weather-observing-satellite-launch</guid>
+ <pubDate>Mon, 27 Dec 2021 15:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476267</dc:identifier>
+</item>
+ <item> <title>NASA&#039;s Webb Telescope Launches to See First Galaxies, Distant Worlds</title>
+ <link>http://www.nasa.gov/press-release/nasas-webb-telescope-launches-to-see-first-galaxies-distant-worlds</link>
+ <description>NASA’s James Webb Space Telescope launched at 7:20 a.m. EST Saturday on an Ariane 5 rocket from Europe’s Spaceport.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/webb_spacecraft_sep_12.25.png?itok=k2OSBf9T" length="1510383" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasas-webb-telescope-launches-to-see-first-galaxies-distant-worlds</guid>
+ <pubDate>Sat, 25 Dec 2021 08:10 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476247</dc:identifier>
+</item>
+ <item> <title>NASA Selects Four University Teams for Aviation Projects</title>
+ <link>http://www.nasa.gov/press-release/nasa-selects-four-university-teams-for-aviation-projects</link>
+ <description>NASA’s research focus on sustainable aviation will get some big help from teams of university faculty and students recently selected to participate in the agency’s University Leadership Initiative (ULI).</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/university-concept.jpg?itok=HPhDA6V-" length="1032733" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-selects-four-university-teams-for-aviation-projects</guid>
+ <pubDate>Thu, 23 Dec 2021 12:53 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476250</dc:identifier>
+</item>
+ <item> <title>NASA Awards Contract for Software Engineering Services at Goddard</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-contract-for-software-engineering-services-at-goddard</link>
+ <description>NASA has awarded a contract to Mitchell Vantage Systems LLC of Oklahoma City for software products, services, and engineering support.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-contract-for-software-engineering-services-at-goddard</guid>
+ <pubDate>Tue, 21 Dec 2021 16:20 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476210</dc:identifier>
+</item>
+ <item> <title>NASA Awards Systems and Software Assurance Services 2 Contract</title>
+ <link>http://www.nasa.gov/press-release/nasa-awards-systems-and-software-assurance-services-2-contract</link>
+ <description>NASA has selected Millennium Engineering and Integration LLC of Arlington, Virginia, as the awardee for its Systems and Software Assurance Services 2 (SAS2) contract, in support of the agency’s Independent Verification and Validation (IV&amp;V) program in Fairmont, West Virginia.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb_0.jpg?itok=mrBnB_c9" length="189751" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-awards-systems-and-software-assurance-services-2-contract</guid>
+ <pubDate>Tue, 21 Dec 2021 15:22 EST</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/breaking_news.rss">NASA Breaking News</source>
+ <dc:identifier>476204</dc:identifier>
+</item>
+</channel>
+</rss>
