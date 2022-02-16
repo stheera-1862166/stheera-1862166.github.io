@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Roboto+Serif&display=swap');
+
+.p1 {
+  font-family: 'Gideon Roman', cursive;
+  text-shadow: 2px 2px;
+}
+
+.p2 {
+  font-family: 'Roboto Serif', sans-serif;
+  border-style: dotted;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+img.s50 {
+  width:50px;
+  height:50px;
+  margin:20px;
+}
+
+img.s200 {
+  width:200px;
+  height:200px;
+  margin: 20px;
+}
+
+ol {
+  border-radius: 25px;
+  border: 2px solid #73AD21;
+}
+
+ul {
+  float: right;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
